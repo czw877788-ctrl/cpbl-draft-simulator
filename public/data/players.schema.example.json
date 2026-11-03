@@ -1,0 +1,27 @@
+{
+  "sourceNote": "資料來源與更新日期說明",
+  "players": [
+    {
+      "id": "CPBL-PLAYER-ID",
+      "name": "球員姓名",
+      "role": "投手",
+      "position": "投手守位",
+      "school": "原屬球隊／學校",
+      "stats": {
+        "era": 3.2,
+        "whip": 1.2,
+        "k9": 8.0,
+        "bb9": 2.5
+      }
+    }
+  ],
+  "drafts": [
+    {
+      "year": 2024,
+      "label": "2024 歷史重選",
+      "playerPool": [
+        "CPBL-PLAYER-ID"
+      ]
+    }
+  ]
+}

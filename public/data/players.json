@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "isDemo": true,
+    "lastUpdated": null,
+    "source": "Demo data only"
+  },
+  "sourceNote": "示範資料（非官方球員名單／非真實成績），請匯入經核對的 CPBL 資料後再進行歷史重選。",
+  "players": [
+    {
+      "id": "DEMO-P01",
+      "name": "示範投手甲",
+      "role": "投手",
+      "position": "先發投手",
+      "school": "示範資料",
+      "stats": {
+        "era": 2.85,
+        "whip": 1.12,
+        "k9": 9.1,
+        "bb9": 2.1
+      }
+    },
+    {
+      "id": "DEMO-P02",
+      "name": "示範投手乙",
+      "role": "投手",
+      "position": "後援投手",
+      "school": "示範資料",
+      "stats": {
+        "era": 3.42,
+        "whip": 1.24,
+        "k9": 8.3,
+        "bb9": 2.8
+      }
+    },
+    {
+      "id": "DEMO-P03",
+      "name": "示範投手丙",
+      "role": "投手",
+      "position": "先發投手",
+      "school": "示範資料",
+      "stats": {
+        "era": 4.1,
+        "whip": 1.39,
+        "k9": 7.0,
+        "bb9": 3.1
+      }
+    },
+    {
+      "id": "DEMO-P04",
+      "name": "示範投手丁",
+      "role": "投手",
+      "position": "後援投手",
+      "school": "示範資料",
+      "stats": {
+        "era": 2.65,
+        "whip": 1.05,
+        "k9": 10.0,
+        "bb9": 2.5
+      }
+    },
+    {
+      "id": "DEMO-H01",
+      "name": "示範野手甲",
+      "role": "內野手",
+      "position": "游擊手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.312,
+        "ops": 0.865,
+        "hr": 12,
+        "sb": 18
+      }
+    },
+    {
+      "id": "DEMO-H02",
+      "name": "示範野手乙",
+      "role": "外野手",
+      "position": "中外野手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.285,
+        "ops": 0.81,
+        "hr": 15,
+        "sb": 22
+      }
+    },
+    {
+      "id": "DEMO-H03",
+      "name": "示範野手丙",
+      "role": "捕手",
+      "position": "捕手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.258,
+        "ops": 0.73,
+        "hr": 8,
+        "sb": 1
+      }
+    },
+    {
+      "id": "DEMO-H04",
+      "name": "示範野手丁",
+      "role": "內野手",
+      "position": "三壘手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.298,
+        "ops": 0.845,
+        "hr": 19,
+        "sb": 4
+      }
+    },
+    {
+      "id": "DEMO-H05",
+      "name": "示範野手戊",
+      "role": "外野手",
+      "position": "右外野手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.271,
+        "ops": 0.79,
+        "hr": 21,
+        "sb": 9
+      }
+    },
+    {
+      "id": "DEMO-H06",
+      "name": "示範野手己",
+      "role": "內野手",
+      "position": "二壘手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.305,
+        "ops": 0.78,
+        "hr": 5,
+        "sb": 14
+      }
+    },
+    {
+      "id": "DEMO-P05",
+      "name": "示範投手戊",
+      "role": "投手",
+      "position": "先發投手",
+      "school": "示範資料",
+      "stats": {
+        "era": 3.75,
+        "whip": 1.31,
+        "k9": 7.8,
+        "bb9": 3.0
+      }
+    },
+    {
+      "id": "DEMO-H07",
+      "name": "示範野手庚",
+      "role": "外野手",
+      "position": "左外野手",
+      "school": "示範資料",
+      "stats": {
+        "avg": 0.265,
+        "ops": 0.755,
+        "hr": 11,
+        "sb": 12
+      }
+    }
+  ],
+  "drafts": [
+    {
+      "year": 2024,
+      "label": "示範重選（非真實候選池）",
+      "playerPool": [
+        "DEMO-P01",
+        "DEMO-P02",
+        "DEMO-P03",
+        "DEMO-P04",
+        "DEMO-H01",
+        "DEMO-H02",
+        "DEMO-H03",
+        "DEMO-H04",
+        "DEMO-H05",
+        "DEMO-H06",
+        "DEMO-P05",
+        "DEMO-H07"
+      ]
+    }
+  ]
+}
